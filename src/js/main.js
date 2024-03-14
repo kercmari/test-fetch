@@ -13,7 +13,7 @@ let request = async () => {
         let  rate = result[currency];
 
         let template = `
-        <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4"><div class="card"  >
+        <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 mt-4"><div class="card"  >
         <div class="card-header p-3 pt-2">
         <div
             class="icon icon-lg icon-shape bg-gradient-dark shadow-dark text-center border-radius-xl mt-n4 position-absolute">
